@@ -2,3 +2,5 @@ Joker
 Thanos
 Lorenzo
 Java
+Cabezon
+Orejon
