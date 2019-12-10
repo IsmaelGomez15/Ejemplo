@@ -2,3 +2,4 @@ Nova York
 Boston
 Londres
 Madrid
+Barcelona
